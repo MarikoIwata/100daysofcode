@@ -149,7 +149,9 @@ My Exceptions:
 - Learned how to upload it to github through VS Code.
 - details on the git commands I used [here](Day002/Day002.md)
 
-
+## Day 3
+- Learned how to make my terminal a little more pretty and found resources for VS Code Extensions
+- details on the git commands I used [here](Day003/Day003.md)
 
 
 
