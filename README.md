@@ -147,7 +147,7 @@ My Exceptions:
 
 ## Day 2
 - Learned how to upload it to github through VS Code.
-- More Info [here](Day001/Day001.md)
+- details on the git commands I used [here](Day002/Day002.md)
 
 
 
