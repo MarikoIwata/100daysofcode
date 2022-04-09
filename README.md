@@ -35,7 +35,7 @@ My Exceptions:
 
 ## Goals
 
-- [ ] [Learn Javascript](#learn-javascript)
+- [ ] [Learn Developer Tools](#learn-developer-tools)
 - [ ] [Solve problems on Data Structures and Algorithms](#solve-problems-on-data-structures-and-algorithms)
 - [ ] [Project Work and Open Source](#project-work-and-open-source)
 - [ ] [Record my progress](#record-my-progress)
@@ -43,26 +43,16 @@ My Exceptions:
 ---
 
 
-### Learn Javascript
+### Learn Developer Tools
 
 #### Learn Javascript Software Development 
-- [ ] Javascript
-    - [ ] Arrays
-    - [ ] Strings
-    - [ ] Objects
-- [ ] Software Engineering Core Concepts
-	- [ ] Github - [Day 1](#day-1)
-	- [ ] Closure
-	- [ ] Recursion 
-	- [ ] Diagramming Challenges
-- [ ] Object-Oriented Design
+- [ ] VS Code
+	- [ ] Extensions
+	- [ ] Debugging
+- [ ] Github - [Day 1](#day-1)
+- [ ] Notability for Diagramming Challenges
 
 
-#### Learn Full-stack Development 
-- [ ] JavaScript
-- [ ] ReactJS & ReduxJS
-- [ ] Svelte
-- [ ] NodeJS
 ---
 
 
@@ -71,52 +61,30 @@ My Exceptions:
 - [ ] Data Structures
 	- [ ] Arrays
 	- [ ] Strings 
-	- [ ] HashMaps 
-	- [ ] Stacks
-	- [ ] Queues 
-	- [ ] Linked Lists 
-	- [ ] Trees 
-	- [ ] Graphs
-	- [ ] Heaps
-	- [ ] Tries
+	- [ ] Hash Tables
+	- [ ] Dynamic Programming
+	- [ ] Depth First Search
+	- [ ] Breadth First Search
+	- [ ] Binary Search Tree
+	- [ ] Linked Lists
+	- [ ] Sliding Window
+	- [ ] Graph
+	- [ ] Trie
+	- [ ] Recursion
+	- [ ] Stack
+	- [ ] Heap
+	- [ ] Matrix
+	- [ ] Two Pointers
 
-- [ ] Algorithms
-	- [ ] Sorting
-		- [ ] Insertion Sort
-		- [ ] Selection Sort
-		- [ ] Bubble Sort
-		- [ ] Count Sort
-		- [ ] Merge Sort
-		- [ ] Quick Sort
-	- [ ] Searching
-		- [ ] Linear Search
-		- [ ] Binary Search
-		- [ ]  BFS
-		- [ ] DFS
-	- [ ] Recursion, Backtracking 
-	- [ ] Dynamic Programming 
-	- [ ] Two pointers
-	- [ ] Greedy
-	- [ ] Bit Manipulation
-	- [ ]  Mathematical problems
-- [ ] Solve Hackerrank Challenges in Java
 ---
 ### Project Work and Open Source
 
 #### Creating things
-- [ ] Game
+- [ ] Class Project - Game
     - [ ] submit changes
     - [ ] List what needs to be done
 - [ ] Open Source
 	- [ ] first time contributor
-
-
-#### Learn Full-stack Development 
-- [ ] JavaScript
-- [ ] ReactJS & ReduxJS
-- [ ] Svelte
-- [ ] NodeJS
-
 
 ---
 #### Record my learnings
@@ -153,14 +121,17 @@ My Exceptions:
 - Learned how to make my terminal a little more pretty and found resources for VS Code Extensions
 - details on the git commands I used [here](Day003/Day003.md)
 
+## Day 4
+- I set up leetcode on VS Code so I can work out problems there
 
-
+## Day 5
+- today I installed homebrew, check out my folder for resource links on that
 
 ---
 
 ## Goals Accomplished in 2022 (#100daysofcode)
 
-- [ ] [Learn Javascript](#learn-javascript)
+- [ ] [Learn Developer Tools](#learn-developer-tools)
 - [ ] [Solve problems on Data Structures and Algorithms](#solve-problems-on-data-structures-and-algorithms)
 - [ ] [Project Work and Open Source](#project-work-and-open-source)
 - [ ] [Record my progress](#record-my-progress)
