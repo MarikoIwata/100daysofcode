@@ -127,6 +127,9 @@ My Exceptions:
 ## Day 5
 - today I installed homebrew, check out my folder for resource links on that
 
+## Day 6
+- explored a cool tool that allows you to practice and save regex
+
 ---
 
 ## Goals Accomplished in 2022 (#100daysofcode)
