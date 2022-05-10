@@ -130,6 +130,9 @@ My Exceptions:
 ## Day 6
 - explored a cool tool that allows you to practice and save regex
 
+## Day 7
+- Terminal commands I can't live without is in my Day 7 folder and a way for me to get to it when I'm not at my desk where all of my post its are on my wall.
+
 ---
 
 ## Goals Accomplished in 2022 (#100daysofcode)
