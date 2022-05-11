@@ -59,7 +59,7 @@ My Exceptions:
 ### Solve problems on Data Structures and Algorithms
 
 - [ ] Data Structures
-	- [x ] Arrays
+	- [ ] Arrays
 	- [ ] Strings 
 	- [ ] Hash Tables
 	- [ ] Dynamic Programming
